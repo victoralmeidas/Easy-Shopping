@@ -8,3 +8,5 @@
 
 
 <img src="https://github.com/victoralmeidas/Easy-Shopping/blob/master/img/Desktop.PNG?raw=true"/>
+<br>
+<img src="https://github.com/victoralmeidas/Easy-Shopping/blob/master/img/mobile.PNG?raw=true" />
